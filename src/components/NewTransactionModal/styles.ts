@@ -10,7 +10,7 @@ export const Container = styled.form`
 
    input {
        width: 100%;
-       padding: 0 1.5 rem;
+       padding: 0 1.5rem;
        height: 4rem;
        border-radius: 0.25rem;
 
